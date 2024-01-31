@@ -1,0 +1,1 @@
+Training and inference code for a Transformer LLM based on the [Llama](https://arxiv.org/pdf/2305.07759.pdf) architecture in PyTorch. The training is done on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset.
